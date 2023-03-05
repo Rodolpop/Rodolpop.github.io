@@ -2,7 +2,7 @@
 body {
     
     
-    background-color: #ec120e; /* Used if the image is unavailable */
+    background-color: #2b07bc; /* Used if the image is unavailable */
     height: 500px; /* You must set a specified height */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
@@ -13,11 +13,20 @@ body {
 
 h1 {
 
-    font-size: 100px;
+    font-size: 40px;
     text-align: center;
+    margin-top: 300px;
     color: white;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:roboto;
 
+}
+
+.logo {
+
+    height: 200px;
+    width: 200px;
+    margin-left: 650px;
+    margin-top: 20px;
 
 
 }
